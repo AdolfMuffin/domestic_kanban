@@ -1,0 +1,5 @@
+2025/03/12 22:14:30 [emerg] 1#1: host not found in upstream "plankanban" in /etc/nginx/conf.d/planka.conf:32
+2025/03/12 22:14:40 [emerg] 1#1: host not found in upstream "plankanban" in /etc/nginx/conf.d/planka.conf:32
+2025/03/12 22:14:50 [emerg] 1#1: host not found in upstream "plankanban" in /etc/nginx/conf.d/planka.conf:32
+2025/03/12 22:14:59 [emerg] 1#1: host not found in upstream "plankanban" in /etc/nginx/conf.d/planka.conf:32
+2025/03/12 22:15:09 [emerg] 1#1: host not found in upstream "plankanban" in /etc/nginx/conf.d/planka.conf:32
